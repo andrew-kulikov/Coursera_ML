@@ -1,0 +1,13 @@
+Step # 1 : average PSNR =  9.818835544761873 . Median PSNR =  9.818835544761873
+Step # 2 : average PSNR =  12.080177084934409 . Median PSNR =  12.080177084934409
+Step # 3 : average PSNR =  13.153487044616073 . Median PSNR =  13.153487044616073
+Step # 4 : average PSNR =  14.36781794086615 . Median PSNR =  14.36781794086615
+Step # 5 : average PSNR =  15.527146197308248 . Median PSNR =  15.527146197308248
+Step # 6 : average PSNR =  16.543994096622484 . Median PSNR =  16.543994096622484
+Step # 7 : average PSNR =  17.640992508635783 . Median PSNR =  17.640992508635783
+Step # 8 : average PSNR =  18.436829014067694 . Median PSNR =  18.436829014067694
+Step # 9 : average PSNR =  19.11267273579115 . Median PSNR =  19.11267273579115
+Step # 10 : average PSNR =  19.640756635920063 . Median PSNR =  19.640756635920063
+Step # 11 : average PSNR =  20.127588746511314 . Median PSNR =  20.127588746511314
+-----------------------
+ Training was sucsessfuly ended on the iteration # 11
